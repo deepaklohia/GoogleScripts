@@ -2,7 +2,7 @@
 
 // Jai Guru Dev Jai Shiv Shankar 
 // v1.1 Designed by Deepak Lohia at https://deepaklohia.com/
-// Visit https://www.fiverr.com/deepaklohia for BUSINESS QUERIES  
+// Visit https://www.fiverr.com/dlohia for BUSINESS QUERIES  
 
 function btn_clear() {
   var spreadsheet = SpreadsheetApp.getActive();
